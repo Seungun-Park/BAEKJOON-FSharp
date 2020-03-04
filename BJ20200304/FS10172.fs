@@ -1,0 +1,5 @@
+﻿printfn "|\\_/|"
+printfn "|q p|   /}"
+printfn "( 0 )\"\"\"\\"
+printfn "|\"^\"`    |"
+printfn "||_/=\\\\__|"
